@@ -1,7 +1,7 @@
-# 📷 CNN for Comparison of Human Faces
+# 📷 CNNs for Face Recognition
 
 ## 🚀 Introduction
-Welcome to our project on **Human faces comparison**! In this project, we analyze a dataset of images depicting various human faces. Our goal is to use Siamese and Triplet neural networks for comparison, extract features using convolutional neural networks (CNNs), and make predictions based on the similarity of faces.
+Welcome to our project on **Face Recognition using CNNs**! In this project, we analyze a dataset of images depicting various human faces. Our goal is to use Siamese and Triplet neural networks for comparison, extract features using convolutional neural networks (CNNs), and make predictions based on the similarity of faces.
 
 ## 👥 Authors
 - **Carranza Lucas** (202210073)
